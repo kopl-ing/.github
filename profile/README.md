@@ -1,8 +1,9 @@
 # Kopling community software
 
-Being developed at https://github.com/kopl-ing/development. And pushing individual features into their own repositories on updates.
+Website: https://kopl.ing.
+Demo: https://nightly.kopl.ing (resets regularly).
 
-Development demo at https://nightly.kopl.ing.
+Being developed at https://github.com/kopl-ing/development. And pushing individual features into their own repositories on updates.
 
 ## Key aspects
 
