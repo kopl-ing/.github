@@ -1,7 +1,11 @@
 # Kopling community software
 
-Website: https://kopl.ing.
-Demo: https://nightly.kopl.ing (resets regularly).
+The extensible community software that aims to bring meaningful interactions and build honest relationships.
+
+Built on #laravel #htmx #tailwind #daisyux and a decade of experience in building scalable, modern web software with #php.
+
+- Website: https://kopl.ing.
+- Demo: https://nightly.kopl.ing (resets regularly).
 
 Being developed at https://github.com/kopl-ing/development. And pushing individual features into their own repositories on updates.
 
